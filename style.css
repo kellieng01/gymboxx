@@ -1,0 +1,103 @@
+
+body {
+  background-color:#f0ffff;
+
+}
+
+h1 {
+  font-family: impact;
+  font-size: 200%;
+  text-align:center;
+}
+
+#title{
+
+  box-sizing: border-box;
+  width: 400px;
+  height: 100px;  
+  border: 10px solid black;
+  padding: 20px;
+ }
+
+#title2{
+
+  box-sizing: border-box;
+  width: 400px;
+  height: 130px;  
+  border: 10px solid black;
+  padding: 20px;
+ }
+
+p{
+  font-family:Comic Sans MS;
+  text-align:center;
+
+}
+
+tr{
+  font-family:Comic Sans MS;
+}
+
+
+/*navigation bar*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align: center;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#location{
+  font-family: courier;
+}
+
+#hours{
+
+  box-sizing: border-box;
+  width: 200px;
+  height: 100px;  
+  border: 10px solid black;
+
+ }
+
+#facilities{
+
+  box-sizing: border-box;
+  width: 300px;
+  height: 50px;  
+  border: 5px solid black;
+
+ }
+
+p.facilities{
+  color: rgb(80, 80, 80);
+
+}
+
+
+.membership{
+  font-size:90%;
+
+}
+
+
+
+
